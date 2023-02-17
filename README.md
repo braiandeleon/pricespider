@@ -35,9 +35,14 @@ In this repository you can find all the related information that we have introdu
 - AI:Natural Language Processing
 
 #### Installing Git and using GitHub
+- [Installing Git](https://github.com/braiandeleon/pricespider/blob/master/slides/gitbash-installation.pdf)
 - Cloning Repos
 
 Links:
 
 - [PriceSpider Website](https://www.pricespider.com/)
 - [Tony Boro Trainning](https://drive.google.com/drive/folders/1sjaHcUrujTm8DyTE3OUIATwJAeTmEYJS?usp=share_link)
+
+
+
+
