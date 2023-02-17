@@ -19,6 +19,7 @@ In this repository you can find all the related information that we have introdu
   - Prowl 
 - Product identification
   - SKU vs. UPC 
+  - VPNs and Location-based price strateging 
 - WebCrawler vs WebScrapping
 
 #### Second unit
