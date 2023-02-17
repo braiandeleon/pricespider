@@ -10,3 +10,26 @@
 [Tony Boro Trainning](https://drive.google.com/drive/folders/1sjaHcUrujTm8DyTE3OUIATwJAeTmEYJS?usp=share_link)
 
 In this repository you can find all the related information that we have introduced to you during the inital trainning for PriceSpider team. 
+
+## Topics to cover
+
+#### First unit
+- What's PriceSpider?
+- PriceSpider Products
+  - Where to buy?
+  - Brand monitor
+  - Prowl 
+- Product identification
+  - SKU vs. UPC 
+- WebCrawler vs WebScrapping
+
+#### Second unit
+- Web Interaction
+  - Web Browsers
+  - HTML 
+  - CSS
+  - JS
+  - SQL and Database Manegement Systems
+  - URL 
+  - Inspect feature and source code
+- WebCrawler example
