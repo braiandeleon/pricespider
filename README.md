@@ -6,10 +6,8 @@
 
 ##### Note: This GitHib is intended for Infolink-exp use only. For any questions feel free to reach out at: braiandeleon@gmail.com
 
-
-[Tony Boro Trainning](https://drive.google.com/drive/folders/1sjaHcUrujTm8DyTE3OUIATwJAeTmEYJS?usp=share_link)
-
 In this repository you can find all the related information that we have introduced to you during the inital trainning for PriceSpider team. 
+
 
 ## Topics to cover
 
@@ -38,3 +36,7 @@ In this repository you can find all the related information that we have introdu
 #### Installing Git and using GitHub
 - Cloning Repos
 
+Links:
+
+- [PriceSpider Website](https://www.pricespider.com/)
+- [Tony Boro Trainning](https://drive.google.com/drive/folders/1sjaHcUrujTm8DyTE3OUIATwJAeTmEYJS?usp=share_link)
