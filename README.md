@@ -19,7 +19,7 @@ In this repository you can find all the related information that we have introdu
   - Prowl 
 - Product identification
   - SKU vs. UPC 
-  - VPNs and Location-based price strateging 
+  - VPNs and Location-based price strategying
 - WebCrawler vs WebScrapping
 
 #### Second unit
@@ -37,6 +37,8 @@ In this repository you can find all the related information that we have introdu
 #### Installing Git and using GitHub
 - [Installing Git](https://github.com/braiandeleon/pricespider/blob/master/slides/gitbash-installation.pdf)
 - Cloning Repos
+
+
 
 Links:
 
