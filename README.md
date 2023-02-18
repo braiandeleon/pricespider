@@ -47,7 +47,7 @@ Links:
 
 The myRepo.bat is the first file that you need to download and run in this induction. This file when you click on it will create two different repos. One that you can modify and play with and another one that you can not modify as is just for reference only. It should be run inside the folder where you want your repos to be. 
 
-The gitUpdate.bat file keeps your repo up to date when you click on it. And you should run it inside the folder that you will use as the reference (not myRepo). This file should always be inside the original repo used as reference. 
+The gitUpdate.bat file keeps your repo up to date when you click on it. And you should run it inside the folder that you will use as the reference (not myRepo). Its a good idea to remove it. This file should always be inside the original repo used as reference. 
 
 
 
