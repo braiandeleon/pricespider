@@ -11,18 +11,24 @@ In this repository you can find all the related information that we have introdu
 
 ## Topics to cover
 
-#### First unit
+#### First unit (The client)
 - What's PriceSpider?
 - PriceSpider Products
   - Where to buy?
   - Brand monitor
   - Prowl 
+- Target audience and Clients
+
+
+#### Second unit (Web Shopping) 
+- Let's go shopping! [Juanitos Market](braiandeleon.github.io/shopExample.html)
+- [WebScrapping](braiandeleon.github.io/webScrap.py)
 - Product identification
   - SKU vs. UPC 
   - VPNs and Location-based price strategying
-- WebCrawler vs WebScrapping
 
-#### Second unit
+
+#### Third unit (Techonologies) 
 - Web Interaction
   - Web Browsers
   - HTML 
@@ -31,17 +37,17 @@ In this repository you can find all the related information that we have introdu
   - SQL and Database Manegement Systems
   - URL 
   - Inspect feature and source code
+- WebCrawler vs WebScrapping
 - WebCrawler example
-- AI:Natural Language Processing
-
- #### Creating our first web page
- - Create your own Profile using HTML & CSS
+- AI:Natural Language Processing and PriceSpider How-to
+- Our role
 
 #### Installing Git and using GitHub
 - [Installing Git](https://github.com/braiandeleon/pricespider/blob/master/slides/gitbash-installation.pdf)
 - Cloning Repos
 
-
+ #### Creating our first web page
+ - Create your own Profile using HTML & CSS
 
 Links:
 
