@@ -27,6 +27,20 @@ Algunos tags html, por su naturaleza, no necesitan tener nada adentro. Por lo ta
     </code>
 </pre>
 
+
+''' HTML
+
+<!doctype html>
+<html class="no-js no-touch" lang="en">
+  <head>
+    
+    <script src="https://cdn.yottaa.com/rapid.min.7.1.1.js?key=hklKu7Ef_Yw_ig"></script>
+    <script>
+    Yo.configure('https://qoe-1.yottaa.net/api/v1/configure.rapid.js?key=hklKu7Ef_Yw_ig');
+    </script>
+    
+
+'''
 ## 2. Atributos
 
 En su mayoría de los atributos de un elemento son pares nombre-valor, separados por un signo de igual «=» y escritos en la etiqueta de comienzo de un elemento, después del nombre del elemento. El valor puede estar rodeado por comillas dobles o simples. Los atributos de los tags nos sirven para cambiar su comportamiento o configurarlos.
